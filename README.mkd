@@ -1,4 +1,4 @@
-Algoritmos utilizados na produção do artigo **"Estudo da ocorrência de cyberbullying contra professores na rede social Twitter através de algoritmo de classificação bayesiano"** para o número 1, volume 5 (2012) do _Períodico Texto Livre: Linguagem e Tecnologia_, **ISSN 1983-3652**, da Universidade Federal de Minas Gerais.
+Algoritmo utilizado na produção do artigo **"Estudo da ocorrência de cyberbullying contra professores na rede social Twitter através de algoritmo de classificação bayesiano"** para o número 1, volume 5 (2012) do _Períodico Texto Livre: Linguagem e Tecnologia_, **ISSN 1983-3652**, da Universidade Federal de Minas Gerais.
 
 <!---
 
