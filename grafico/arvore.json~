@@ -1,0 +1,124 @@
+{
+    "name": "12542 Tweets",
+    "children": [
+        {
+            "name": "Domingo (254)",
+            "children": [
+                {
+                    "name": "Professor ()",
+                    "children": [
+                        {"name": "Positivo: 45 tweets"}, {"name": "Negativo: 16 tweets"}, {"name": "Neutro: 20 tweets"}
+                    ]
+                },
+                {
+                    "name": "Professora ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                }
+            ]
+        },
+         {
+            "name": "Segunda (1554)",
+            "children": [
+                {
+                    "name": "Professor ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                },
+                {
+                    "name": "Professora ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Terça (1554)",
+            "children": [
+                {
+                    "name": "Professor ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                },
+                {
+                    "name": "Professora ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Quarta (1554)",
+            "children": [
+                {
+                    "name": "Professor ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                },
+                {
+                    "name": "Professora ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Quinta (1554)",
+            "children": [
+                {
+                    "name": "Professor ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                },
+                {
+                    "name": "Professora ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sexta (1554)",
+            "children": [
+                {
+                    "name": "Professor ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                },
+                {
+                    "name": "Professora ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sábado (1554)",
+            "children": [
+                {
+                    "name": "Professor ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                },
+                {
+                    "name": "Professora ()",
+                    "children": [
+                        {"name": "Positivo"}, {"name": "Negativo"}, {"name": "Neutro"}
+                    ]
+                }
+            ]
+        }
+    ]    
+}

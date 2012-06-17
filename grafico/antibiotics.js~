@@ -1,0 +1,9 @@
+var antibiotics = [
+  { bacteria: "Domingo", Positivo: 1, Negativo: 5, Neutro: 5, gram: "negative" },
+  { bacteria: "Segunda", Positivo: 0.001, Negativo: 14, Neutro: 10, gram: "positive" },
+  { bacteria: "Terça", Positivo: 0.001, Negativo: 14, Neutro: 10, gram: "positive" },
+  { bacteria: "Quarta", Positivo: 0.001, Negativo: 14, Neutro: 10, gram: "positive" },
+  { bacteria: "Quinta", Positivo: 0.001, Negativo: 14, Neutro: 10, gram: "positive" },
+  { bacteria: "Sexta", Positivo: 0.001, Negativo: 14, Neutro: 10, gram: "positive" },
+  { bacteria: "Sábado", Positivo: 0.001, Negativo: 14, Neutro: 10, gram: "positive" },
+];
