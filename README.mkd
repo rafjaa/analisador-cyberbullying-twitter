@@ -3,5 +3,5 @@ Algoritmo utilizado na produção do artigo **"Estudo da ocorrência de cyberbul
 
 O trabalho pretende contribuir com o mapeamento e a mensuração da ocorrência da violência virtual contra professores na rede social _Twitter_, por meio de técnicas computacionais baseadas em mineração de dados da Internet (_web mining_) e aprendizagem de máquina (_machine learning_). Para tal, foi realizada, durante uma semana, a coleta de postagens referentes a professores na rede social, as quais foram normalizadas e submetidas a um algoritmo de classificação Bayesiano capaz de realizar automaticamente a categorização do teor das mensagens como positivas, negativas ou neutras. Como resultado, obteve-se uma visualização gráfica hierárquica dos dados capaz de fornecer uma visão geral da gravidade e abrangência do fenômeno:
 
-![Visualização produzida pelo algoritmo]('https://github.com/rafjaa/analisador-cyberbullying-twitter/blob/master/samples/exemplo_visualizacao.png?raw=true')
+![Visualização produzida pelo algoritmo]('https://raw.github.com/rafjaa/analisador-cyberbullying-twitter/master/samples/exemplo_visualizacao.png')
 
